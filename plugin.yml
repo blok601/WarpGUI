@@ -1,0 +1,8 @@
+name: WarpGUI
+version: 1.0
+author: BikoGames
+main: net.trixmc.warpgui.main.Main
+commands:
+  warp:
+  setwarp:
+  delwarp:
